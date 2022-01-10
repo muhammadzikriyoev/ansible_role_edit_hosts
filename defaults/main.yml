@@ -1,0 +1,4 @@
+
+hosts:
+  - ip: x.x.x.x
+    alias: example (host_name domain_name)
